@@ -6,6 +6,6 @@
     display: inline block;
 }
 
-.content:nth-child(2n+1){
-	background-color: #808080;
+body .content:nth-child(2n+1) {
+	background-color: blue;
 }
