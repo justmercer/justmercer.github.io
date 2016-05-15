@@ -6,6 +6,6 @@
     display: inline block;
 }
 
-.container:nth-of-type(2n+1) {
+.bodycontainer:nth-of-type(2n+1) {
 	background-color: #D3D3D3;
 }
