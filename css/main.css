@@ -1,7 +1,11 @@
-nav {
+.nav {
  padding: 20px, 10px, 20px, 10px;
     background-color: blue;
 }
-nav li {
+.nav li {
     display: inline block;
+}
+
+.content:nth-child(2n+1){
+	background-color: #808080;
 }
