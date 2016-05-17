@@ -16,25 +16,16 @@ footer {
    left:0px;
    bottom:0px;
    width:100%;
-   background:#86EF7B;
+   height:150px;
+   background:#116000;
 }
 footer ul {
     margin: 0;
     overflow: hidden;
-    background-color: #92CC8C;
+    background-color: #116000;
 }
 
-footer li {
-    float: left;
-}
 
-footer li a {
-    display: block;
-    color: #333;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
 
 .jumbotron p {
     text-align: center;
