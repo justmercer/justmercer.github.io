@@ -3,7 +3,8 @@ h1 {
 }
 
 body {
- margin: 0px;   
+ margin: 0px;  
+ background: #EFEFEF;
 }
 
 ul {
@@ -41,5 +42,15 @@ footer ul {
 
 .blurb:hover {
    -webkit-filter: grayscale(0%);
+}
+
+#indexhead{
+    background: url("../img/banner.jpg") no-repeat center center;
+    background-size: cover;
+    height: 750px;
+}
+
+.head{
+    background-color: #EFEFEF;
 }
 

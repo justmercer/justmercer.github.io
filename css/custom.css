@@ -1,6 +1,5 @@
 .navbar-default {
-  background-color: #ffffff;
-  border-color: #d0d0d0;
+  background-color: #EFEFEF;
   border:none;
 }
 .navbar-default .navbar-brand {
@@ -19,16 +18,13 @@
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #0c4500;
-  border: 1px solid #116000;
-  border-top-style: none;
-  border-bottom-style: none;
+  
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #0c4500;
-  background-color: #eee;
+  color: #6F000B;
+  background-color: #BFBFBF; 
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
@@ -85,10 +81,7 @@
     padding-right: 5px;
 }
 
-.jumbotron:hover{
-    background: #116000;
-}
-
-.jumbotron:hover h1, .jumbotron:hover p{
-    color:white;
+.jumbotron{
+    background: rgba(200, 54, 54, 0);
+    padding-top: 150px;
 }
